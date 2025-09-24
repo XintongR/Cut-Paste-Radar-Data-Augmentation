@@ -41,9 +41,12 @@ config (demo):
   "Augmentation Probability": 1.0,
   "DISABLE_AUG_LIST": ["velocity_calculation", "rcs_calculation"]  # ignored in demo
 }
+```
 
 ## 🛠 Installation
+```bash
 pip install -r requirements.txt
+```
 
 ## ▶️ Quick Start
 python demo_cutpaste.py
