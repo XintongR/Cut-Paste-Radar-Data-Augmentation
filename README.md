@@ -1,6 +1,6 @@
 # Cut-Paste Radar Data Augmentation (Demo)
 
-A clean, **confidentiality-safe** demo of a Cut-Paste data augmentation strategy for **radar point clouds**.  
+A clean, **confidentiality-safe** demo of a Cut-Paste data augmentation strategy for **4d radar point clouds**.  
 The original work was part of my Master's thesis on improving **CNN-based 3D object detection**.  
 This repository uses **toy data** to illustrate the idea—no private datasets or partner code are included.
 
