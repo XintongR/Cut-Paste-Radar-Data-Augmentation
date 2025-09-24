@@ -15,17 +15,18 @@ This can improve generalization for 3D detection models.
 - End-to-end **toy example & visualization** (`demo_cutpaste.py`)
 - No confidential code, no proprietary datasets
 
-## 📦 Repository Structure
+## 📂 Project Structure
 ```
 radar-cutpaste-demo/
-│── cut_paste_module.py
-│── demo_cutpaste.py
-│── README.md
-│── requirements.txt
-  └── docs/
-├── before.png (optional)
-  └── after.png (optional)
+│── cut_paste_module.py      # Core Cut-Paste augmentation
+│── demo_cutpaste.py         # Toy example + before/after visualization
+│── README.md                # Documentation
+│── requirements.txt         # Minimal dependencies
+└── docs/
+    ├── before.png           # (Optional) Example visualization
+    └── after.png            # (Optional) Example visualization
 ```
+
 
 ## 🧩 Data Interfaces
 `data_dict` (I/O):
