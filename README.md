@@ -16,6 +16,7 @@ This can improve generalization for 3D detection models.
 - No confidential code, no proprietary datasets
 
 ## 📦 Repository Structure
+```
 radar-cutpaste-demo/
 │── cut_paste_module.py
 │── demo_cutpaste.py
@@ -24,6 +25,7 @@ radar-cutpaste-demo/
   └── docs/
 ├── before.png (optional)
   └── after.png (optional)
+```
 
 ## 🧩 Data Interfaces
 `data_dict` (I/O):
