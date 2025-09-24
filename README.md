@@ -49,11 +49,15 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Quick Start
+```python
 python demo_cutpaste.py
+```
 This shows a side-by-side plot of before vs after augmentation.
 
 To save images used in README, add:
+```python
 plt.savefig("docs/before.png"); plt.savefig("docs/after.png")
+```
 
 ## 🔒 Confidentiality & Scope
 
